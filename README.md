@@ -13,6 +13,7 @@ At the top of the interface, the tab Projects Data is the main tab displaying th
 ![GUI Screenshot](https://github.com/user-attachments/assets/4535a2e8-cf0e-4b5e-9582-d5a47be824b6)
 
 **Further development**
+
 The current plans for further development of this application include:
 - Addition of Clear Filters button option to interface.
 - Addition of dashboard with data visualisation options in the Summary tab to support the text commentary.
