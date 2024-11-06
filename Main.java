@@ -35,12 +35,12 @@ public class Main {
 		
 		// Captures user input to determine file path and name
 		Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter the input file name (e.g. scotia_visual_productions_projects.csv): ");
-        String inputFileName = scanner.nextLine();
+		System.out.print("Enter the input file name (e.g. scotia_visual_productions_projects.csv): ");
+		String inputFileName = scanner.nextLine();
 	    File dataFile = new File(inputFileName); // Capture existing input file
 	    
 	    String newInput;
-	    while ((dataFile).exists()==false) {
+	    while (!(dataFile).exists()) {
 	    	System.out.print("Provide a valid input file name: ");
 	        newInput = scanner.nextLine();
 	        dataFile = new File(newInput);
