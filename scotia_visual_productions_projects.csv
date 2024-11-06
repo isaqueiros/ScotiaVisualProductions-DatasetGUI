@@ -1,0 +1,102 @@
+project_id,project_name,project_type,project_date,project_location,project_cost,project_price_to_customer,size_of_venue,project_duration,duration_units,network,playwright,genre,format
+1,Exhilarating Concert,Music,20/10/2023,Paris,5794.1887,12385.21308,Small,1,hours,,,Classical,
+2,Fantastic Film,Film,21/09/2023,Dunfermline,37817.46301,39692.08756,Small,12,days,,,,Anamorphic
+3,Exuberant Screening,Film,17/02/2023,Glasgow,25959.58334,25125.2438116099,Small,12,hours,,,,Digital
+4,Exuberant Performance,Music,19/12/2023,Berlin,49550.42566,50903.45385,Small,6,days,,,Hip-Hop,
+5,Captivating Play,Theater,20/09/2023,Chicago,979.7027,926.601006494626,Small,12,days,,Neil Simon,,
+6,Zesty Show,Music,01/08/2023,Glasgow,7376.27006,8767.54525,Large,11,hours,,,Pop,
+7,Exuberant Show,Music,24/09/2023,Paris,34737.93047,49520.66254,Small,1,days,,,Misc,
+8,Zany Program,TV,06/02/2023,Dunfermline,7004.19629,13872.54619,Large,12,days,FOX,,,
+9,Awe-Inspiring Show,Theater,26/08/2023,Berlin,2335.53567,2657.36679,Large,11,days,,Ayad Akhtar,,
+10,Mind-Blowing Production,Film,30/11/2023,Chicago,79524.53002,89383.96917,Medium,2,hours,,,,Anamorphic
+11,Extraordinary Show,Music,19/01/2023,Stirling,6335.76622,14121.19805,Medium,6,days,,,Hip-Hop,
+12,Funky Series,TV,06/05/2023,Berlin,8463.1339,8172.28128008628,Medium,6,days,NBC,,,
+13,Captivating Screening,Film,23/04/2023,Toronto,2527.45448,2522.48221486494,Small,11,hours,,,,16mm
+14,Astounding Performance,Music,06/08/2023,Stirling,22388.68116,44836.08885,Small,9,days,,,Folk,
+15,Energetic Performance,Music,27/12/2023,Edinburgh,18483.5002,45334.58634,Small,6,days,,,Hip-Hop,
+16,Exuberant Movie,Film,19/09/2023,Aberdeen,104365.94493,168617.06864,Large,4,hours,,,,16mm
+17,Mesmerising Performance,Theater,25/05/2023,Paris,9750.8988,23649.66157,Large,2,days,,Ayad Akhtar,,
+18,Wondrous Show,Music,18/06/2023,Chicago,17048.68138,16110.7002572814,Medium,7,hours,,,Rock,
+19,Fierce Performance,Music,08/10/2023,Glasgow,1814.31019,1740.97269373277,Medium,5,days,,,Classical,
+20,Glorious Film,Film,16/09/2023,New York,6834.49551,7476.77854,Medium,1,days,,,,Digital
+21,Vibrant Experience,Theater,19/09/2023,Glasgow,14331.33634,18185.79946,Large,5,hours,,Annie Baker,,
+22,Glorious Premiere,Film,29/12/2023,Dunfermline,39030.88965,41946.43528,Small,6,hours,,,,IMAX
+23,Jubilant Program,TV,04/08/2023,Berlin,35434.24608,32045.4202062791,Medium,5,days,Showtime,,,
+24,Fierce Jam,Music,21/06/2023,Edinburgh,37528.69816,55339.21342,Small,4,days,,,Jazz,
+25,Extraordinary Screening,Film,12/05/2023,Vienna,13176.28853,26834.22269,Medium,2,days,,,,Panavision
+26,Exuberant Jam,Music,06/01/2023,Paris,5071.8999,5065.58335,Large,6,hours,,,Jazz,
+27,Exuberant Production,Film,20/07/2023,Edinburgh,92347.53217,91530.8325879008,Large,8,days,,,,35mm
+28,Mind-Blowing Play,Theater,11/03/2023,Stirling,56232.11861,119648.95935,Small,2,days,,Tracy Letts,,
+29,Jubilant Show,TV,13/10/2023,Glasgow,31842.56303,59443.42945,Small,1,days,NBC,,,
+30,Joyous Show,TV,27/03/2023,Toronto,35043.10676,46571.50591,Small,9,hours,FOX,,,
+31,Star-Studded Program,TV,01/08/2023,Edinburgh,5399.6651,9524.47656,Medium,7,hours,Showtime,,,
+32,Exhilarating Series,TV,06/10/2023,Vienna,9765.76877,22779.39165,Large,7,days,HBO,,,
+33,Captivating Production,Film,25/08/2023,Aberdeen,7708.91465,16758.35188,Medium,2,hours,,,,IMAX
+34,Captivating Show,Theater,07/04/2023,Aberdeen,56826.75515,139179.56969,Small,12,days,,Quiara Alegría Hudes,,
+35,Awe-Inspiring Production,Theater,13/02/2023,Stirling,2151.23149,2240.72947,Medium,8,hours,,Ayad Akhtar,,
+36,Magnificent Program,TV,16/11/2023,Chicago,35615.66435,33024.3797070193,Small,10,days,ABC,,,
+37,Funky Show,TV,26/08/2023,Toronto,54551.1166,121154.02516,Small,7,days,HBO,,,
+38,Captivating Movie,Film,27/02/2023,Los Angeles,1994.24494,4390.82514,Small,1,days,,,,70mm
+39,Enchanting Screening,Film,29/04/2023,Stirling,7738.23735,7381.37137260708,Medium,3,hours,,,,70mm
+40,Astounding Film,Film,10/04/2023,New York,70062.85967,88194.53383,Large,2,days,,,,Panavision
+41,Incredible Performance,Theater,04/02/2023,Los Angeles,10796.79199,10328.9023868699,Large,7,hours,,Harold Pinter,,
+42,Magnificent Jam,Music,15/11/2023,Dunfermline,8923.66255,17604.09736,Large,11,days,,,Pop,
+43,Exhilarating Show,Music,23/07/2023,Chicago,2745.81008,2692.18705412164,Large,7,hours,,,Hip-Hop,
+44,Magnificent Movie,Film,23/03/2023,Inverness,9171.36403,9872.57062,Large,4,hours,,,,16mm
+45,Enchanting Experience,Theater,19/12/2023,Stirling,1122.35242,1095.79518559751,Medium,12,days,,Tennessee Williams,,
+46,Jubilant Broadcast,TV,26/07/2023,Edinburgh,8125.50561,15882.68102,Large,4,days,Netflix,,,
+47,Mystical Screening,Film,12/03/2023,Berlin,29713.41049,61866.55075,Small,9,days,,,,35mm
+48,Mind-Blowing Experience,Theater,06/10/2023,Vienna,50278.39356,119101.21595,Large,1,hours,,Neil Simon,,
+49,Zany Broadcast,TV,20/02/2023,Berlin,11258.53759,14303.36967,Large,10,days,FOX,,,
+50,Funky Broadcast,TV,21/05/2023,Inverness,33989.23965,71744.51072,Small,3,days,ABC,,,
+51,Incredible Show,Theater,25/02/2023,Toronto,7338.93867,12403.80344,Large,4,hours,,Harold Pinter,,
+52,Vibrant Performance,Theater,05/10/2023,Edinburgh,2526.90975,4257.84148,Large,2,hours,,Sam Shepard,,
+53,Giddy Show,TV,01/07/2023,New York,39273.28291,38280.1322085037,Small,2,days,ABC,,,
+54,Giddy Series,TV,22/03/2023,Inverness,5514.30179,5080.64526024494,Medium,11,hours,FOX,,,
+55,Extraordinary Performance,Music,04/02/2023,Berlin,6051.139,9748.17515,Medium,11,hours,,,Misc,
+56,Tantalizing Show,TV,31/12/2023,Paris,24434.97679,48799.56751,Large,9,days,CBS,,,
+57,Star-Studded Show,TV,22/06/2023,Stirling,44852.10623,42280.4096863511,Small,2,hours,HBO,,,
+58,Energetic Concert,Music,23/07/2023,Stirling,1549.88434,2967.48042,Medium,10,days,,,Folk,
+59,Awe-Inspiring Performance,Theater,11/03/2023,New York,11618.24483,23370.12236,Large,12,days,,Sarah Ruhl,,
+60,Star-Studded Series,TV,22/02/2023,Stirling,66067.21876,138403.86258,Medium,8,hours,Showtime,,,
+61,Fierce Gig,Music,15/07/2023,Chicago,66629.26422,66006.1603280639,Medium,7,hours,,,Classical,
+62,Magnificent Gig,Music,16/08/2023,Dunfermline,3512.25678,4803.10462,Large,5,hours,,,Classical,
+63,Funky Program,TV,23/05/2023,Los Angeles,81035.87761,194853.98909,Medium,12,hours,FOX,,,
+64,Jubilant Series,TV,09/02/2023,Aberdeen,21983.70338,48138.64776,Medium,12,hours,CBS,,,
+65,Joyous Series,TV,11/03/2023,Glasgow,24716.10383,24389.4763770845,Small,3,hours,NBC,,,
+66,Mind-Blowing Performance,Theater,20/10/2023,Los Angeles,6250.66085,7334.152,Medium,3,days,,Neil Simon,,
+67,Enchanting Play,Theater,30/11/2023,Chicago,61434.56827,69634.09921,Large,4,hours,,August Wilson,,
+68,Enchanting Film,Film,07/10/2023,Glasgow,4114.06753,3758.2056538726,Large,8,hours,,,,Digital
+69,Glorious Screening,Film,08/03/2023,Los Angeles,15105.22382,15441.1252,Large,11,days,,,,70mm
+70,Dazzling Jam,Music,21/02/2023,Edinburgh,4838.08324,10814.35084,Small,5,days,,,Country,
+71,Unforgettable Concert,Music,13/07/2023,Edinburgh,27510.66145,31468.77394,Large,12,hours,,,Pop,
+72,Mesmerising Production,Film,13/09/2023,Los Angeles,31051.15147,69255.48868,Large,9,days,,,,IMAX
+73,Exuberant Film,Film,05/06/2023,Toronto,3490.3285,6644.79039,Small,8,hours,,,,16mm
+74,Vibrant Play,Theater,11/12/2023,New York,7768.71905,9486.49613,Large,5,hours,,Edward Albee,,
+75,Vibrant Movie,Film,18/03/2023,Inverness,110994.09208,154407.85613,Large,11,hours,,,,Super 16mm
+76,Fantastic Production,Theater,05/05/2023,Vienna,2325.92756,3916.28418,Large,12,days,,Quiara Alegría Hudes,,
+77,Dazzling Premiere,Film,28/11/2023,Chicago,4345.04464,7366.89375,Large,7,days,,,,16mm
+78,Fantastic Play,Theater,14/10/2023,Los Angeles,4482.28183,11020.82669,Medium,12,hours,,Arthur Miller,,
+79,Fantastic Experience,Theater,10/11/2023,Paris,8679.58874,8035.23457394185,Medium,4,days,,August Wilson,,
+80,Enchanting Premiere,Film,16/11/2023,Inverness,18641.64575,19860.18358,Small,3,hours,,,,IMAX
+81,Fantastic Performance,Theater,09/06/2023,Los Angeles,2381.3973,4815.86521,Small,6,days,,Lin-Manuel Miranda,,
+82,Fantastic Show,Theater,24/02/2023,Paris,7149.32627,12925.22595,Large,12,days,,David Mamet,,
+83,Sensational Performance,Music,11/06/2023,Toronto,101964.58965,98552.2941915759,Large,7,days,,,Electronic,
+84,Magical Gig,Music,08/01/2023,Paris,7588.5525,8234.63705,Medium,12,days,,,Electronic,
+85,Vibrant Production,Theater,09/01/2023,Dunfermline,66519.26353,135328.14315,Medium,5,days,,Quiara Alegría Hudes,,
+86,Star-Studded Broadcast,TV,15/06/2023,Inverness,80929.35392,191260.50959,Large,6,hours,Netflix,,,
+87,Mesmerising Show,Theater,24/05/2023,Berlin,31727.625,29292.5961066269,Medium,8,hours,,David Mamet,,
+88,Magnificent Premiere,Film,24/09/2023,Vienna,27858.46576,25877.727877978,Large,10,days,,,,Digital
+89,Giddy Broadcast,TV,24/02/2023,Glasgow,86201.80718,115111.48594,Medium,5,hours,FOX,,,
+90,Lively Series,TV,07/07/2023,Dunfermline,523.25373,596.3055,Medium,8,days,Netflix,,,
+91,Enchanting Production,Theater,14/07/2023,Paris,110162.74138,186436.3923,Large,5,days,,Branden Jacobs-Jenkins,,
+92,Awe-Inspiring Play,Theater,06/08/2023,Paris,2104.3963,2818.97775,Large,6,hours,,Harold Pinter,,
+93,Astounding Movie,Film,17/05/2023,New York,1907.38948,2142.05221,Small,5,hours,,,,16mm
+94,Tantalizing Series,TV,31/08/2023,Aberdeen,26679.39188,63116.31204,Small,7,hours,Showtime,,,
+95,Zesty Concert,Music,08/12/2023,Stirling,7179.78479,9075.38724,Small,5,days,,,Misc,
+96,Captivating Film,Film,06/02/2023,Stirling,19188.82124,30281.20459,Small,9,hours,,,,70mm
+97,Extraordinary Movie,Film,14/03/2023,Berlin,2139.91965,2968.22218,Small,11,days,,,,Super 16mm
+98,Incredible Experience,Theater,10/02/2023,Dunfermline,8666.85133,12093.59709,Medium,2,hours,,Sam Shepard,,
+99,Joyous Broadcast,TV,17/03/2023,Stirling,77513.63025,184628.10891,Medium,2,days,Netflix,,,
+100,Dazzling Film,Film,21/12/2023,Stirling,7354.2027,9409.13288,Large,10,days,,,,Digital
+101,Mesmerising Film,Film,12/09/2023,Stirling,23075.93339,40881.2911,Small,9,days,,,,Panavision
