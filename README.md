@@ -1,7 +1,7 @@
 This project presents the creation of a Graphical User Interface (GUI) using Java framework Swing for visualisation and filtering of raw data for the ScotiaVisualProductions dataset provided.
 The project implements concepts of Object-Oriented Programming with Java and it was created for an 2nd Year University assignment.
 
-The application follows the below UML Class Diagram, with a superclass entitled Project and 4 subclasses (FilmProject, MusicProject, TheaterProject and TVProject).
+The backend application follows the below UML Class Diagram, with a superclass entitled Project and 4 subclasses (FilmProject, MusicProject, TheaterProject and TVProject).
 
 ![T4Diagram1](https://github.com/user-attachments/assets/6e145cf6-de40-4f1d-b42a-103ba9b86d36)
 
